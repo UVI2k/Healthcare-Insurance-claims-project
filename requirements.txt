@@ -1,0 +1,4 @@
+cat <<EOL > requirements.txt
+pandas
+numpy
+EOL
