@@ -1,0 +1,6 @@
+denial_reason,denial_count,pct_of_denials
+"Eligibility Issue",55,23.81
+"Service Not Covered",53,22.94
+"Incorrect Coding",46,19.91
+"Duplicate Claim",44,19.05
+"Missing Documentation",33,14.29

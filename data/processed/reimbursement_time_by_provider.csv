@@ -1,0 +1,6 @@
+insurance_provider,approved_claims,avg_days_to_decision,avg_days_to_payment,avg_approved_amount
+"Medicare Advantage - Blue Cross",75,11.53,15.91,156.02
+"Medicare Advantage - Aetna",168,11.45,15.6,149.68
+"Private - Other",82,11.28,15.28,156.55
+Medicare,355,11.76,15.12,154.21
+"Medicare Advantage - United",119,10.86,14.68,157.37

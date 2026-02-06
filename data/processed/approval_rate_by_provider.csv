@@ -1,0 +1,6 @@
+insurance_provider,total_claims,approved_claims,denied_claims,pending_claims,approval_rate_pct
+"Medicare Advantage - United",175,119,33,23,68.0
+"Medicare Advantage - Blue Cross",112,75,29,8,66.96
+Medicare,533,355,95,83,66.6
+"Private - Other",124,82,26,16,66.13
+"Medicare Advantage - Aetna",256,168,48,40,65.63

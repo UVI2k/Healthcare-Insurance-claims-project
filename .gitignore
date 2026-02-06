@@ -4,8 +4,11 @@ __pycache__/
 *.pyc
 
 # Data files
-data/processed/
-*.db
+data/processed/*.db
+
+# Allow processed KPI CSV outputs
+!data/processed/*.csv
+
 
 # Jupyter
 .ipynb_checkpoints/
