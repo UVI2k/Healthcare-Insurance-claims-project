@@ -7,7 +7,7 @@ The solution is designed to mirror **real-world healthcare operations and Revenu
 
 ## Live Dashboard
 🔗 **View the interactive Looker Studio dashboard:**  
-👉 [Healthcare Insurance Claims Operations Dashboard](https://lookerstudio.google.com/reporting/a663b4c7-fa93-469a-8877-56fac8239eee))
+👉 [Healthcare Insurance Claims Operations Dashboard](https://lookerstudio.google.com/reporting/a663b4c7-fa93-469a-8877-56fac8239eee)
 
 > The dashboard is view-only and hosted on Looker Studio.  
 > It includes Executive Summary, Operations & Worklist, and Denials & Process Improvement pages.
