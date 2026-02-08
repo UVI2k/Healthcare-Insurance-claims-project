@@ -3,7 +3,7 @@
 ## Project Overview
 This project demonstrates an end-to-end **healthcare insurance claims analytics workflow**, focused on **operational performance, revenue cycle insights, and process improvement**. Using synthetic but realistic claims data, the project simulates how healthcare organizations analyze approvals, denials, reimbursement delays, and pending claims to support data-driven decision-making.
 
-The solution is designed to mirror **real-world healthcare operations and Revenue Cycle Management (RCM)** environments and is suitable for **junior / entry-level data analyst roles** in healthcare, operations, and startup settings.
+The solution is designed to mirror **real-world healthcare operations and Revenue Cycle Management (RCM)** environments and is suitable for **data analysts** in healthcare operations.
 
 ## Live Dashboard
 🔗 **View the interactive Looker Studio dashboard:**  
